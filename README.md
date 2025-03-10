@@ -1,7 +1,7 @@
 # Sing-up-Sing-in
 Sing up / Sing in Swift UI
 
-<img src="Sing up.png" alt="Opis slike" width="250"/> <img src="Sing in.png" alt="Opis slike" width="250"/>
+<img src="Sing up.png" alt="Opis slike" width="260"/> <img src="Sing in.png" alt="Opis slike" width="260"/>
 
 Dobrodošli u moj projekt! Ovdje možete pronaći detalje o funkcionalnostima i kako ga koristiti.
 
