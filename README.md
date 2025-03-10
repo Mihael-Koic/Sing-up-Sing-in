@@ -7,7 +7,7 @@ Dobrodošli u moj projekt! Ovdje možete pronaći detalje o funkcionalnostima i 
 
 ## Opis
 
-Ovaj projekt je zamišljen kao aplikacija za placanje i koristenje s Apple StoreKit?
+Ovaj projekt je zamišljen kao aplikacija za Sing Up / Sing in?
 
 ## Kako koristiti
 
